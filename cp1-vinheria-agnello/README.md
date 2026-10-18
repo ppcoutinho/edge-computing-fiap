@@ -51,7 +51,7 @@ a luminosidade do ambiente com um sensor LDR e sinaliza se as condições estão
 
 - `Adafruit_LiquidCrystal` – controle do display LCD via I2C
 
-## ▶️ Como reproduzir
+## Como reproduzir
 
 ### Para visualizar a simulação no Tinkercad:
 
@@ -68,12 +68,12 @@ a luminosidade do ambiente com um sensor LDR e sinaliza se as condições estão
 3. Instale a biblioteca "Adafruit LiquidCrystal" pelo Gerenciador de Bibliotecas;
 4. Envie o código para a placa.
 
-## 🖼️ Circuito
+## Circuito
 
 ![Circuito no Tinkercad](imagens/circuito.png)
 
 ## Vídeo do nosso projeto
 
-[Assista ao vídeo no YouTube](https://youtu.be/6dJ79bdWtkl)
+[Assista ao vídeo no YouTube](https://youtu.be/6dJ79bdWtkI)
 
 
