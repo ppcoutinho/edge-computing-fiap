@@ -4,11 +4,11 @@ Checkpoint 01 da disciplina **Edge Computing & Computer Systems** – Engenharia
 
 ## Grupo: Digital Nomads
 
-- Anne Bortoli de Oliveira – RM574750
-- Débora Cristina Gonçalves da Silva – RM575926
-- Gabriel Almeida – RM575525
-- Pedro Paulo Coutinho – RM575957
-- Vanessa Santos Martins de Lima Nascimento – RM576450
+- Anne Bortoli de Oliveira – RM574750 | [@ANNEBORTOLI](https://github.com/ANNEBORTOLI)
+- Débora Cristina Gonçalves da Silva – RM575926 | [@Deboracgs](https://github.com/Deboracgs)
+- Gabriel Almeida – RM575525 | [@Gabriel-W-almeida](https://github.com/Gabriel-W-almeida)
+- Pedro Paulo Coutinho – RM575957 | [@ppcoutinho](https://github.com/ppcoutinho)
+- Vanessa Santos Martins de Lima Nascimento – RM576450 | [@Nayayaa](https://github.com/Nayayaa)
 
 ## Descrição do projeto
 
