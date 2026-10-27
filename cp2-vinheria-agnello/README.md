@@ -135,6 +135,10 @@ O circuito foi montado e simulado no Wokwi. As imagens abaixo mostram duas vista
 
 ## Desafios técnicos e soluções
 
+Abaixo estão desafios comuns em projetos desse tipo e como cada um foi tratado no código.
+Alguns deles enfrentamos durante o desenvolvimento; de outros, tomamos ciência ao estudar
+projetos semelhantes durante a fase de elaboração e decidimos adotar as soluções por precaução.
+
 - **Leitura do LDR invertida:** no circuito, o valor analógico diminui quando a luz aumenta,
   o que deixaria a escala contraintuitiva. A função `map()` resolve isso ao associar a leitura
   do ambiente escuro a 0% e a do ambiente claro a 100%.
